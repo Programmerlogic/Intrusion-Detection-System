@@ -32,6 +32,12 @@ The real-time operation is performed for the verification of the efficiency of o
 ### Evaluation Metrics:
 - **classification_report**: Used to generate a comprehensive report on the classification performance of a model, including precision, recall, F1-score, and support for each class.
 - **accuracy_score**: Employed to measure the accuracy of classification models by comparing the predicted labels to the true labels.
+## Installation Steps:
+**Step 1.** Run requirements.txt</br>
+**Step 2.** Keep the CICFlowmeter folder in a proper place</br>
+**Step 3.** Run test.py in the terminal</br>
+**Step 4.** A Dialog box will open up. Enter the CICFlowmeter folder location and password</br>
+**Step 5.** Click on the start button. A window will pop up showing the incomming packets and their classes wheather it is attack or not in Binary column and their classification in Multiclass column</br>
 ## Realtime Implementation 
 An application software made for **Linux**</br>
 
