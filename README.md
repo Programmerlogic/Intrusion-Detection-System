@@ -48,6 +48,5 @@ To run this project, make sure you have the following dependencies:</br>
 ## Realtime Implementation 
 An application software made for **Linux**</br>
 
-
-https://github.com/Programmerlogic/Intrusion-Detection-System/assets/90715479/5b9aaf57-4b25-4f03-8164-9761ddaaca6e
+https://github.com/Programmerlogic/Intrusion-Detection-System/assets/90715479/c79c964e-e6ca-4232-bf1e-7cde58760ea1
 
