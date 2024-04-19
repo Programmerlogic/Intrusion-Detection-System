@@ -33,5 +33,6 @@ The real-time operation is performed for the verification of the efficiency of o
 - **classification_report**: Used to generate a comprehensive report on the classification performance of a model, including precision, recall, F1-score, and support for each class.
 - **accuracy_score**: Employed to measure the accuracy of classification models by comparing the predicted labels to the true labels.
 ## Realtime Implementation 
+Application software made for **Linux**
 ![Untitled video - Made with Clipchamp](https://github.com/Programmerlogic/Intrusion-Detection-System/assets/90715479/454bf556-b612-41da-8aa4-d4637e4cb62f)
 
