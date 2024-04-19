@@ -34,5 +34,7 @@ The real-time operation is performed for the verification of the efficiency of o
 - **accuracy_score**: Employed to measure the accuracy of classification models by comparing the predicted labels to the true labels.
 ## Realtime Implementation 
 Application software made for **Linux**</br>
-![Untitled video - Made with Clipchamp](https://github.com/Programmerlogic/Intrusion-Detection-System/assets/90715479/454bf556-b612-41da-8aa4-d4637e4cb62f)
+
+
+https://github.com/Programmerlogic/Intrusion-Detection-System/assets/90715479/5b9aaf57-4b25-4f03-8164-9761ddaaca6e
 
