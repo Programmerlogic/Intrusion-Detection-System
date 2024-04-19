@@ -25,8 +25,43 @@ For citation in your works and for a comprehensive understanding of CICFlowMeter
 | Total Length of Bwd Packet  | Total size of packet in backward direction                   |
 | Fwd Packet Length Min       | Minimum size of packet in forward direction                  |
 | Fwd Packet Length Max       | Maximum size of packet in forward direction                  |
-| ...                         | ...                                                          |
+| Packet Length Mean          | Mean length of a packet                                      |
+| Packet Length Std           | Standard deviation length of a packet                        |
+| Packet Length Variance      | Variance length of a packet                                  |
+| FIN Flag Count              | Number of packets with FIN                                   |
+| SYN Flag Count              | Number of packets with SYN                                   |
+| RST Flag Count              | Number of packets with RST                                   |
+| PSH Flag Count              | Number of packets with PUSH                                  |
+| ACK Flag Count              | Number of packets with ACK                                   |
+| URG Flag Count              | Number of packets with URG                                   |
+| CWR Flag Count              | Number of packets with CWR                                   |
+| ECE Flag Count              | Number of packets with ECE                                   |
+| down/Up Ratio               | Download and upload ratio                                    |
+| Average Packet Size         | Average size of packet                                       |
+| Fwd Segment Size Avg        | Average size observed in the forward direction               |
+| Bwd Segment Size Avg        | Average number of bytes bulk rate in the backward direction  |
+| Fwd Bytes/Bulk Avg          | Average number of bytes bulk rate in the forward direction   |
+| Fwd Packet/Bulk Avg         | Average number of packets bulk rate in the forward direction |
+| Fwd Bulk Rate Avg           | Average number of bulk rate in the forward direction         |
+| Bwd Bytes/Bulk Avg          | Average number of bytes bulk rate in the backward direction  |
+| Bwd Packet/Bulk Avg         | Average number of packets bulk rate in the backward direction|
+| Bwd Bulk Rate Avg           | Average number of bulk rate in the backward direction        |
+| Subflow Fwd Packets         | The average number of packets in a sub flow in the forward direction|
+| Subflow Fwd Bytes           | The average number of bytes in a sub flow in the forward direction|
+| Subflow Bwd Packets         | The average number of packets in a sub flow in the backward direction|
+| Subflow Bwd Bytes           | The average number of bytes in a sub flow in the backward direction|
+| Fwd Init Win bytes          | The total number of bytes sent in initial window in the forward direction|
+| Bwd Init Win bytes          | The total number of bytes sent in initial window in the backward direction|
+| Fwd Act Data Pkts           | Count of packets with at least 1 byte of TCP data payload in the forward direction|
+| Fwd Seg Size Min            | Minimum segment size observed in the forward direction     |
+| Active Min                  | Minimum time a flow was active before becoming idle         |
+| Active Mean                 | Mean time a flow was active before becoming idle            |
+| Active Max                  | Maximum time a flow was active before becoming idle         |
+| Active Std                  | Standard deviation time a flow was active before becoming idle|
+| Idle Min                    | Minimum time a flow was idle before becoming active         |
+| Idle Mean                   | Mean time a flow was idle before becoming active            |
+| Idle Max                    | Maximum time a flow was idle before becoming active         |                                             
 | Idle Std                    | Standard deviation time a flow was idle before becoming active|
 
-For a more detailed explanation of each feature, refer to the original source papers.
+
 
