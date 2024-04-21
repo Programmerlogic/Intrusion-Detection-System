@@ -50,3 +50,13 @@ An application software made for **Linux**</br>
 
 https://github.com/Programmerlogic/Intrusion-Detection-System/assets/90715479/c79c964e-e6ca-4232-bf1e-7cde58760ea1
 
+Let us now understand this application software</br>
+| Column Name                 | Description                                                  |
+|-----------------------------|--------------------------------------------------------------|
+| **Binary**                  | If 0 Then not an attack packet </br> If 1 Then an attack packet |
+| **Multiclass**              | If 0 Then not an attack packet </br> Else an attack packet |
+| **Timestamp**               | Date & Time at which the packets hitting in NIC(Network Interface Card)|
+| **Src IP**                  | Source IP Address |
+| **Src Port**                | Source Port Number |
+| **Dst IP**                  | Destination IP Address |
+| **Dst Port**                | Destination Port Number |
