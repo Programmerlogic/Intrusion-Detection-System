@@ -61,8 +61,6 @@ Let us now understand this application software</br>
 | **Dst IP**                  | Destination IP Address |
 | **Dst Port**                | Destination Port Number |
 
-## Research Paper
-https://www.sciencedirect.com/science/article/abs/pii/S0957417423003329
 
 ## LINKS
 PPT: https://www.slideshare.net/slideshow/intrusiondetectionsystemppt-cupptx/267410402
