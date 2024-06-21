@@ -36,7 +36,7 @@ The real-time operation is performed for the verification of the efficiency of o
 **Step 1.** Run requirements.txt</br>
 **Step 2.** Keep the CICFlowmeter folder in a proper place</br>
 **Step 3.** Run test.py in the terminal</br>
-**Step 4.** A Dialog box will open up. Enter the CICFlowmeter folder location and password</br>
+**Step 4.** A Dialog box will open up. Enter  the CICFlowmeter folder location and password</br>
 **Step 5.** Click on the start button. A window will pop up showing the incomming packets and their classes wheather it is attack or not in Binary column and their classification in Multiclass column</br>
 ## Dependencies
 To run this project, make sure you have the following dependencies:</br>
